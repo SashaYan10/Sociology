@@ -1,0 +1,4 @@
+repository "Philosophy@boyovicburst@cloud"
+  path "/"
+    br "/main"
+    co "/main"
